@@ -1,0 +1,6 @@
+@PaulR6| ID: 477800146 
+Name: Paul | Age: 23 | City: Omsk
+
+@PaulR6| ID: 477800146 
+Name: Paul2 | Age: 34 | City: Moskva
+

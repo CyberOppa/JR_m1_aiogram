@@ -1,0 +1,20 @@
+[
+    {
+        "user_id": 477800146,
+        "username": "PaulR6",
+        "data": {
+            "name": "paul",
+            "age": "23",
+            "city": "omsk"
+        }
+    },
+    {
+        "user_id": 477800146,
+        "username": "PaulR6",
+        "data": {
+            "name": "paul2",
+            "age": "34",
+            "city": "moskva"
+        }
+    }
+]
